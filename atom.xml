@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ehoac.github.io/"/>
-  <updated>2020-02-15T15:30:35.086Z</updated>
+  <updated>2020-02-17T07:26:03.175Z</updated>
   <id>http://ehoac.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vimplus shortcut</title>
+    <link href="http://ehoac.github.io/2020/02/17/vimplus-shortcut/"/>
+    <id>http://ehoac.github.io/2020/02/17/vimplus-shortcut/</id>
+    <published>2020-02-17T06:27:44.000Z</published>
+    <updated>2020-02-17T07:26:03.175Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Shortcut"><a href="#Shortcut" class="headerlink" title="Shortcut"></a>Shortcut</h2><table><thead><tr><th>快捷键</th><th>说明</th></tr></thead><tbody><tr><td>,</td><td>Leader Key</td></tr><tr><td><leader>n</td><td>打开／关闭资源管理器</td></tr><tr><td><leader>t</td><td>打开／关闭函数列表</td></tr><tr><td><leader>d</td><td>删除当前buffer</td></tr><tr><td><leader>D</td><td>删除其他buffer</td></tr><tr><td><leader>r</td><td>全局替换（单个文件）</td></tr><tr><td>gcc</td><td>注释代码</td></tr><tr><td>gcap</td><td>注释段落</td></tr><tr><td>&lt; c-p &gt;</td><td>切换到上一个buffer</td></tr><tr><td>&lt; c-n &gt;</td><td>切换到下一个buffer</td></tr><tr><td>F7</td><td>开启Markdown预览</td></tr><tr><td>F8</td><td>关闭Markdown预览</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Shortcut&quot;&gt;&lt;a href=&quot;#Shortcut&quot; class=&quot;headerlink&quot; title=&quot;Shortcut&quot;&gt;&lt;/a&gt;Shortcut&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;快捷键&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/t
+      
+    
+    </summary>
+    
+    
+    
+      <category term="vimplus" scheme="http://ehoac.github.io/tags/vimplus/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
