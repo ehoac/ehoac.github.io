@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ehoac.github.io/"/>
-  <updated>2020-02-17T07:26:03.175Z</updated>
+  <updated>2020-02-18T16:27:59.209Z</updated>
   <id>http://ehoac.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown Grammar Recording</title>
+    <link href="http://ehoac.github.io/2020/02/18/Markdown-Grammar-Recording/"/>
+    <id>http://ehoac.github.io/2020/02/18/Markdown-Grammar-Recording/</id>
+    <published>2020-02-18T13:12:10.000Z</published>
+    <updated>2020-02-18T16:27:59.209Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">###### 六级标题</span><br></pre></td></tr></table></figure><h2 id="特殊符号"><a href="#特殊符号" class="headerlink" title="特殊符号"></a>特殊符号</h2><p>&amp;lt;&emsp;&lt;<br>&amp;gt;&emsp;&gt;<br>&amp;amp;&emsp;&amp;<br>&amp;quot;&emsp;&quot;<br>&amp;copy;&emsp;&copy;<br>&amp;nbsp;&emsp;[&nbsp;]<br>&amp;ensp;&emsp;[&ensp;]<br>&amp;emsp;&emsp;[&emsp;]<br>&amp;reg;&emsp;&reg;<br>&amp;times;&emsp;&times;<br>&amp;divide;&emsp;&divide;<br>&amp;yen;&emsp;&yen;<br>&amp;plusmn;&emsp;&plusmn;<br>&amp;not;&emsp;&not;<br>&amp;laquo;&emsp;&laquo;<br>&amp;raquo;&emsp;&raquo;<br>&amp;middot;&emsp;&middot;<br>&amp;lowast;&emsp;&lowast;  </p><h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><p>*<em>斜体*\</em><br>_<em>斜体_\</em><br>**<strong>粗体</strong>**<br>~~<del>删除线</del>~~<br>`<code>代码块</code>`<br>&lt;/u&gt;<u>下划线</u>&lt;/u&gt;   </p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p><code>+,-,*</code>无序列表<br><code>1,2,3,...</code>有序列表  </p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><code>[Markdown Grammar Recording](http://127.0.0.1:4000/2020/02/18/Markdown-Grammar-Recording/)</code><br><a href="http://127.0.0.1:4000/2020/02/18/Markdown-Grammar-Recording/" target="_blank" rel="noopener">Markdown Grammar Recording</a></p><h2 id="图像"><a href="#图像" class="headerlink" title="图像"></a>图像</h2><p><code>![Pic](https://picsum.photos/id/128/600/400 &quot;picsum picture&quot;)</code><br><img src="https://picsum.photos/id/128/600/400" alt="Picsum Picture" title="picsum picture"></p><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">|表头1|表头2|</span><br><span class="line">|--|--|</span><br><span class="line">|内容1|内容2|</span><br><span class="line">|内容3|内容4|</span><br></pre></td></tr></table></figure><table><thead><tr><th>表头1</th><th>表头2</th></tr></thead><tbody><tr><td>内容1</td><td>内容2</td></tr><tr><td>内容3</td><td>内容4</td></tr></tbody></table><h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">***</span><br><span class="line">---</span><br><span class="line">___</span><br></pre></td></tr></table></figure><hr><hr><hr><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>这是一级引用</p><blockquote><p>这是二级引用</p><blockquote><p>3</p><blockquote><p>4</p></blockquote></blockquote></blockquote></blockquote><h2 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h2><p>行未加两个空格</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span 
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="http://ehoac.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="markdown" scheme="http://ehoac.github.io/tags/markdown/"/>
+    
+      <category term="note" scheme="http://ehoac.github.io/tags/note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node note</title>
+    <link href="http://ehoac.github.io/2020/02/17/Node-note/"/>
+    <id>http://ehoac.github.io/2020/02/17/Node-note/</id>
+    <published>2020-02-17T14:57:29.000Z</published>
+    <updated>2020-02-17T16:21:34.418Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="设置npm镜像"><a href="#设置npm镜像" class="headerlink" title="设置npm镜像"></a>设置npm镜像</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry http:&#x2F;&#x2F;registry.url</span><br></pre></td></tr></table></figure><blockquote><p>淘宝镜像：<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;设置npm镜像&quot;&gt;&lt;a href=&quot;#设置npm镜像&quot; class=&quot;headerlink&quot; title=&quot;设置npm镜像&quot;&gt;&lt;/a&gt;设置npm镜像&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="http://ehoac.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="node" scheme="http://ehoac.github.io/tags/node/"/>
+    
+  </entry>
   
   <entry>
     <title>vimplus shortcut</title>
