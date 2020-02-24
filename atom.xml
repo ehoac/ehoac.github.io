@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ehoac.github.io/"/>
-  <updated>2020-02-24T16:29:31.860Z</updated>
+  <updated>2020-02-24T16:39:27.504Z</updated>
   <id>http://ehoac.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://ehoac.github.io/2020/02/24/Java-jdk/"/>
     <id>http://ehoac.github.io/2020/02/24/Java-jdk/</id>
     <published>2020-02-24T15:28:42.000Z</published>
-    <updated>2020-02-24T16:29:31.860Z</updated>
+    <updated>2020-02-24T16:39:27.504Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="downliad"><a href="#downliad" class="headerlink" title="downliad"></a>downliad</h2><p><img src="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" alt="下载jdk8"></p><p><img src="https://www.oracle.com/cn/java/technologies/javase-jdk8-downloads.html" alt="下载jdk8"></p><h2 id="解压"><a href="#解压" class="headerlink" title="解压"></a>解压</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo tar xvf jdk-8u25-linux-x64.tar.gz</span><br></pre></td></tr></table></figure><h2 id="环境变量"><a href="#环境变量" class="headerlink" title="环境变量"></a>环境变量</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">~&#x2F;.bashrc</span><br><span class="line">export JAVA_HOME&#x3D;&#x2F;usr&#x2F;local&#x2F;java&#x2F;jdk1.8.0_25 </span><br><span class="line">export JRE_HOME&#x3D;$&#123;JAVA_HOME&#125;&#x2F;jre </span><br><span class="line">export CLASSPATH&#x3D;.:$&#123;JAVA_HOME&#125;&#x2F;lib:$&#123;JRE_HOME&#125;&#x2F;lib </span><br><span class="line">export PATH&#x3D;$&#123;JAVA_HOME&#125;&#x2F;bin:$PATH</span><br></pre></td></tr></table></figure><h2 id="配置生效"><a href="#配置生效" class="headerlink" title="配置生效"></a>配置生效</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">source &#x2F;etc&#x2F;profile</span><br><span class="line"></span><br><span class="line">java -version</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="downliad"><a href="#downliad" class="headerlink" title="downliad"></a>downliad</h2><p><a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank" rel="noopener">下载jdk8</a></p><p><a href="https://www.oracle.com/cn/java/technologies/javase-jdk8-downloads.html" target="_blank" rel="noopener">下载jdk8</a></p><h2 id="解压"><a href="#解压" class="headerlink" title="解压"></a>解压</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo tar xvf jdk-8u25-linux-x64.tar.gz</span><br></pre></td></tr></table></figure><h2 id="环境变量"><a href="#环境变量" class="headerlink" title="环境变量"></a>环境变量</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">~&#x2F;.bashrc</span><br><span class="line">export JAVA_HOME&#x3D;&#x2F;usr&#x2F;local&#x2F;java&#x2F;jdk1.8.0_25 </span><br><span class="line">export JRE_HOME&#x3D;$&#123;JAVA_HOME&#125;&#x2F;jre </span><br><span class="line">export CLASSPATH&#x3D;.:$&#123;JAVA_HOME&#125;&#x2F;lib:$&#123;JRE_HOME&#125;&#x2F;lib </span><br><span class="line">export PATH&#x3D;$&#123;JAVA_HOME&#125;&#x2F;bin:$PATH</span><br></pre></td></tr></table></figure><h2 id="配置生效"><a href="#配置生效" class="headerlink" title="配置生效"></a>配置生效</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">source &#x2F;etc&#x2F;profile</span><br><span class="line"></span><br><span class="line">java -version</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;downliad&quot;&gt;&lt;a href=&quot;#downliad&quot; class=&quot;headerlink&quot; title=&quot;downliad&quot;&gt;&lt;/a&gt;downliad&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://www.oracle.com/technetwork/ja
+        &lt;h2 id=&quot;downliad&quot;&gt;&lt;a href=&quot;#downliad&quot; class=&quot;headerlink&quot; title=&quot;downliad&quot;&gt;&lt;/a&gt;downliad&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://www.oracle.com/technetwork/jav
       
     
     </summary>
